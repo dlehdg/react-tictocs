@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/raect-tictocs/static/css/main.9a182e0e.css",
+    "main.js": "/raect-tictocs/static/js/main.435ae963.js",
+    "static/js/787.c6f69108.chunk.js": "/raect-tictocs/static/js/787.c6f69108.chunk.js",
+    "index.html": "/raect-tictocs/index.html",
+    "main.9a182e0e.css.map": "/raect-tictocs/static/css/main.9a182e0e.css.map",
+    "main.435ae963.js.map": "/raect-tictocs/static/js/main.435ae963.js.map",
+    "787.c6f69108.chunk.js.map": "/raect-tictocs/static/js/787.c6f69108.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a182e0e.css",
+    "static/js/main.435ae963.js"
+  ]
+}
